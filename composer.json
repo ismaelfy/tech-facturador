@@ -1,0 +1,15 @@
+{
+    "name": "tech/facturador",
+    "authors": [
+        {
+            "name": "Ismael Fermandez",
+            "email": "ismael.7087@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tech\\facturador\\":"src/"
+        }
+    }
+}
